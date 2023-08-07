@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alisherov Mahmudjon
+- 👋 Hi, I’m Mahmudjon
 - ⚽I’m interested Foodball
 - 📝 I’m currently learning Flutter
 - 🔎 I’m currently learning English
